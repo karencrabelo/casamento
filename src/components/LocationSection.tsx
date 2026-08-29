@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, Navigation, Car, Bus, ExternalLink, Sparkles, CheckCircle2 } from 'lucide-react';
+import { MapPin, Navigation, Car, Bus, ExternalLink, Sparkles, CircleCheck as CheckCircle2 } from 'lucide-react';
 import { WeddingConfig } from '../types';
 import { DelicateBlossom, ViolaBlossom, FloralDivider } from './FloralDecorations';
 

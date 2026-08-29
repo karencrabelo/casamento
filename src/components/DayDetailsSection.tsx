@@ -1,5 +1,5 @@
 import React from 'react';
-import { Sparkles, Sun, ShieldAlert, Check, HelpCircle } from 'lucide-react';
+import { Sparkles, Sun, ShieldAlert, Check, Circle as HelpCircle } from 'lucide-react';
 import { WeddingConfig } from '../types';
 import { DelicateBlossom, ViolaBlossom, FloralDivider } from './FloralDecorations';
 

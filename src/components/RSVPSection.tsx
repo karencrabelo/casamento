@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Heart, Send, CheckCircle2, UserCheck, AlertCircle, Sparkles, MessageCircle, Plus, Trash2, Calendar } from 'lucide-react';
+import { Heart, Send, CircleCheck as CheckCircle2, UserCheck, CircleAlert as AlertCircle, Sparkles, MessageCircle, Plus, Trash2, Calendar } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { WeddingConfig, RSVPResponse } from '../types';
 import { DelicateBlossom, ViolaBlossom, FloralDivider } from './FloralDecorations';

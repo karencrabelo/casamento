@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Heart, Sparkles, Coffee, Home, Calendar, X } from 'lucide-react';
+import { Heart, Sparkles, Coffee, Hop as Home, Calendar, X } from 'lucide-react';
 import { WeddingConfig, StoryMilestone } from '../types';
 import { DelicateBlossom, ViolaBlossom, FloralDivider } from './FloralDecorations';
 

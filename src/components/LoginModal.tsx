@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, Lock, User, Eye, EyeOff, AlertCircle } from 'lucide-react';
+import { X, Lock, User, Eye, EyeOff, CircleAlert as AlertCircle } from 'lucide-react';
 import { DelicateBlossom } from './FloralDecorations';
 
 interface LoginModalProps {

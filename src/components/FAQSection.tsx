@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { HelpCircle, ChevronDown, Search, MessageCircle, Sparkles } from 'lucide-react';
+import { Circle as HelpCircle, ChevronDown, Search, MessageCircle, Sparkles } from 'lucide-react';
 import { WeddingConfig, FAQItem } from '../types';
 import { DelicateBlossom, ViolaBlossom, FloralDivider } from './FloralDecorations';
 
