@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #FAF7F2;
+    color: #4A4238;
+  }
+}
+
+.font-serif-cormorant {
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+}
+
+.font-script,
+.font-handwritten,
+.font-great-vibes,
+.font-pinyon {
+  font-family: 'Pinyon Script', 'Alex Brush', cursive;
+  letter-spacing: 0.01em;
+}
+
+.font-fairy-ballerina {
+  font-family: 'Pinyon Script', 'Fairy Ballerina', 'Alex Brush', cursive;
+  letter-spacing: 0.01em;
+}
+
+.font-oooh-baby {
+  font-family: 'Oooh Baby', 'Fairy Ballerina', cursive;
+}
+
+.font-birthstone-bounce {
+  font-family: 'Birthstone Bounce', 'Fairy Ballerina', cursive;
+}
+
+.font-league-script {
+  font-family: 'League Script', 'Fairy Ballerina', cursive;
+}
+
+.font-inspiration {
+  font-family: 'Inspiration', 'Fairy Ballerina', cursive;
+}
+
+.font-dancing-script {
+  font-family: 'Dancing Script', 'Fairy Ballerina', cursive;
+}
+
+.font-parisienne {
+  font-family: 'Parisienne', cursive;
+}
+
+.font-allura {
+  font-family: 'Allura', cursive;
+}
+
+.font-ephesis {
+  font-family: 'Ephesis', cursive;
+}
+
+.font-montecarlo {
+  font-family: 'MonteCarlo', cursive;
+}
+
+.font-montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.font-sans-body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Romantic Floral custom classes */
+.bg-floral-cream {
+  background-color: #FAF7F2;
+}
+
+.bg-floral-card {
+  background-color: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+}
+
+.text-floral-olive {
+  color: #5E693D;
+}
+
+.text-floral-rose {
+  color: #D97D93;
+}
+
+.text-floral-lavender {
+  color: #8B6990;
+}
+
+.border-floral-subtle {
+  border-color: rgba(94, 105, 61, 0.18);
+}
+
+@keyframes gentleFloat {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-6px) rotate(2deg); }
+}
+
+.animate-gentle-float {
+  animation: gentleFloat 6s ease-in-out infinite;
+}
+
+

@@ -1,0 +1,6 @@
+{
+  "name": "Jhonathan & Karen - Casamento",
+  "description": "Site oficial do casamento de Jhonathan & Karen com tema romântico floral, contagem regressiva, confirmação de presença (RSVP), lista de presentes e detalhes da celebração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
